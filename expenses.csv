@@ -1,0 +1,8 @@
+expense_id, date, category, description, amount
+1,12-07-2026,Food,Breakfast at cafe,150
+2,13-07-2026,Travel,Auto fare,80
+3,14-07-2026,Bills,Mobile recharge,299
+4,15-07-2026,Food,Lunch with friends,250
+5,16-07-2026,Travel,Bus ticket,40
+6,18-07-2026,Food,Groceries,600
+7,20-07-2026,Bills,Electricity Bill,850 8,19-07-2026,Food,Banana,40.0
