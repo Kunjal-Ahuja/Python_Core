@@ -1,0 +1,11 @@
+ticket_id,customer_name,category,priority_raw,created_at,sla_hours,status
+T001,John Smith,Network,high,2026-07-20 09:30:00,24,open
+T002,Alice Johnson,Hardware,medium,2026-07-22 14:15:00,48,in_progress
+T003,Rahul Sharma,Software,critical,2026-07-18 08:00:00,12,open
+T004,Emma Brown,Database,low,2026-07-25 11:20:00,72,closed
+T005,Michael Lee,Security,high,2026-07-19 16:45:00,36,open
+T006,Priya Patel,Network,medium,2026-07-24 10:00:00,24,closed
+T007,David Wilson,Software,critical,2026-07-17 13:30:00,8,in_progress
+T008,Sophia Davis,Cloud,low,2026-07-26 09:00:00,48,open
+T009,Arjun Kumar,Hardware,medium,2026-07-21 15:10:00,24,closed
+T010,Olivia Taylor,Security,critical,2026-07-16 07:45:00,6,open

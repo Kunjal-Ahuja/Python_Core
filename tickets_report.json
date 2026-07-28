@@ -1,0 +1,130 @@
+{
+  "generated_at": "2026-07-27T23:03:42.078825",
+  "summary": {
+    "total_rows": 10,
+    "valid_tickets": 10,
+    "invalid_rows": 0,
+    "breached_count": 6,
+    "by_category": {
+      "Network": 2,
+      "Hardware": 2,
+      "Software": 2,
+      "Database": 1,
+      "Security": 2,
+      "Cloud": 1
+    }
+  },
+  "tickets": [
+    {
+      "ticket_id": "T001",
+      "customer_name": "John Smith",
+      "category": "Network",
+      "priority_raw": "high",
+      "priority_score": 3,
+      "created_at": "2026-07-20T09:30:00",
+      "sla_hours": 24.0,
+      "status": "open",
+      "sla_breached": true
+    },
+    {
+      "ticket_id": "T002",
+      "customer_name": "Alice Johnson",
+      "category": "Hardware",
+      "priority_raw": "medium",
+      "priority_score": 2,
+      "created_at": "2026-07-22T14:15:00",
+      "sla_hours": 48.0,
+      "status": "in_progress",
+      "sla_breached": true
+    },
+    {
+      "ticket_id": "T003",
+      "customer_name": "Rahul Sharma",
+      "category": "Software",
+      "priority_raw": "critical",
+      "priority_score": 4,
+      "created_at": "2026-07-18T08:00:00",
+      "sla_hours": 12.0,
+      "status": "open",
+      "sla_breached": true
+    },
+    {
+      "ticket_id": "T004",
+      "customer_name": "Emma Brown",
+      "category": "Database",
+      "priority_raw": "low",
+      "priority_score": 1,
+      "created_at": "2026-07-25T11:20:00",
+      "sla_hours": 72.0,
+      "status": "closed",
+      "sla_breached": false
+    },
+    {
+      "ticket_id": "T005",
+      "customer_name": "Michael Lee",
+      "category": "Security",
+      "priority_raw": "high",
+      "priority_score": 3,
+      "created_at": "2026-07-19T16:45:00",
+      "sla_hours": 36.0,
+      "status": "open",
+      "sla_breached": true
+    },
+    {
+      "ticket_id": "T006",
+      "customer_name": "Priya Patel",
+      "category": "Network",
+      "priority_raw": "medium",
+      "priority_score": 2,
+      "created_at": "2026-07-24T10:00:00",
+      "sla_hours": 24.0,
+      "status": "closed",
+      "sla_breached": false
+    },
+    {
+      "ticket_id": "T007",
+      "customer_name": "David Wilson",
+      "category": "Software",
+      "priority_raw": "critical",
+      "priority_score": 4,
+      "created_at": "2026-07-17T13:30:00",
+      "sla_hours": 8.0,
+      "status": "in_progress",
+      "sla_breached": true
+    },
+    {
+      "ticket_id": "T008",
+      "customer_name": "Sophia Davis",
+      "category": "Cloud",
+      "priority_raw": "low",
+      "priority_score": 1,
+      "created_at": "2026-07-26T09:00:00",
+      "sla_hours": 48.0,
+      "status": "open",
+      "sla_breached": false
+    },
+    {
+      "ticket_id": "T009",
+      "customer_name": "Arjun Kumar",
+      "category": "Hardware",
+      "priority_raw": "medium",
+      "priority_score": 2,
+      "created_at": "2026-07-21T15:10:00",
+      "sla_hours": 24.0,
+      "status": "closed",
+      "sla_breached": false
+    },
+    {
+      "ticket_id": "T010",
+      "customer_name": "Olivia Taylor",
+      "category": "Security",
+      "priority_raw": "critical",
+      "priority_score": 4,
+      "created_at": "2026-07-16T07:45:00",
+      "sla_hours": 6.0,
+      "status": "open",
+      "sla_breached": true
+    }
+  ],
+  "invalid_rows": []
+}
